@@ -13,7 +13,7 @@ void express (int numbers[5]) {
 
 void sort (int n[5]) {
 
-  for (int j = 0; j < 5; j++){
+  for (int j = 0; j < 10; j++){
     for (int i = 0; i < 5; i++) {
       if (n[i] > n[i + 1]) {
 
